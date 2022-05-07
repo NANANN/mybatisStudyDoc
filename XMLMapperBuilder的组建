@@ -1,0 +1,2 @@
+当在加载mybatis的时候,会加载 XMLMapperBuilder ,但是我不知道是怎么加载进来的,
+在构造 XMLMapperBuilder 之前并没有 XMLConfigBuilder 的动作
